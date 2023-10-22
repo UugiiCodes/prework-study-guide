@@ -1,4 +1,4 @@
-# <Prework Study Guide for Full-Stack Bootcamp>
+# Prework Study Guide for Full-Stack Bootcamp
 
 ## This is the study guide to use during edX Full-Stack Bootcamp
 
